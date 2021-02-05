@@ -1,4 +1,4 @@
-![Vaibhav Goel Banner](https://drive.google.com/file/d/1tHpFErOkhqvFoRlb2BJLxSO5qErZTIps/view?usp=sharing)
+![Vaibhav Goel Banner](images/me.png)
 
 
 # Bitcoin Ticker 🤑
